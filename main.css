@@ -26,12 +26,15 @@ max-width: 800px;
     border-style: solid;
     border-width: 1px;
     padding: 15px;
-    border-color: deepskyblue;
+    border-color: red;
    margin: 15px;
 }
 #solution {
+    border-style: solid;
+    border-width: 1px;
     padding: 15px;
-    margin: 10px;
+    border-color: deepskyblue;
+   margin: 15px;
 }
 
 ol li{
