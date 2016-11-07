@@ -16,15 +16,18 @@ max-width: 600px;
 }
 
 #header{
-    text-align: center;
+       clear: both;
+    margin: 0 auto;
 max-width: 800px;
+    text-align: center;
+
 }
 #issue {
     border-style: solid;
     border-width: 1px;
     padding: 15px;
     border-color: deepskyblue;
-   margin: 10px;
+   margin: 15px;
 }
 #solution {
     padding: 15px;
