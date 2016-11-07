@@ -2,7 +2,9 @@ body {
  
 margin: 0;
 }
-
+#wrapper {
+    text-align: center;
+}
 #container{
 
     
@@ -15,7 +17,7 @@ max-width: 600px;
 
 #header{
     text-align: center;
-
+max-width: 800px;
 }
 #issue {
     border-style: solid;
