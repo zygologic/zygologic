@@ -9,6 +9,11 @@ margin: 0;
 #ads {
     margin-left: -10px;
 }
+
+#videoGuide {
+ 
+    margin-top:10px;
+}
 #container{
 
     
@@ -70,6 +75,10 @@ ol li{
 background-color: white;
     
     
+}
+
+img {
+    margin-top: 8px;
 }
 
 
